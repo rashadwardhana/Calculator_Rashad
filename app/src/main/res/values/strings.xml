@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator_Rashad</string>
+    <string-array name="SpinnerItems">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>
